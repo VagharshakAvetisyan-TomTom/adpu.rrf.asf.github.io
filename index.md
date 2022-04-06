@@ -1,7 +1,7 @@
 ## Welcome to our fantastic team i.e. Lazy Roaders!
 
 
-# Header 1 PR conventions.
+# PR conventions.
 
 
 
